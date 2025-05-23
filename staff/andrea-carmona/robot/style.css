@@ -1,0 +1,34 @@
+.robot-head {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(200, 162, 200);
+    position: absolute;
+}
+
+.robot-eye-1 {
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+}
+
+.robot-eye-2 {
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    position: absolute;
+    left: 60px;
+    top: 20px;
+}
+
+.robot-mouth {
+    width: 60px;
+    height: 20px;
+    background-color: white;
+    position: absolute;
+    left: 20px;
+    top: 60px;
+}
+
