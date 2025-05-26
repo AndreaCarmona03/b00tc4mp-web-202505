@@ -67,3 +67,39 @@
     left: 10px;
     top: 0px;
 }
+
+.robot-tooth-3 {
+    width: 8px;
+    height: 8px;
+    background-color: white;
+    position: absolute;
+    left: 20px;
+    top: 0px;
+}
+
+.robot-tooth-4 {
+    width: 8px;
+    height: 8px;
+    background-color: white;
+    position: absolute;
+    left: 30px;
+    top: 0px;
+}
+
+.robot-tooth-5 {
+    width: 8px;
+    height: 8px;
+    background-color: white;
+    position: absolute;
+    left: 40px;
+    top: 0px;
+}
+
+.robot-tooth-6 {
+    width: 8px;
+    height: 8px;
+    background-color: white;
+    position: absolute;
+    left: 50px;
+    top: 0px;
+}
