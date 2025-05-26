@@ -103,3 +103,57 @@
     left: 50px;
     top: 0px;
 }
+
+.robot-tooth-7 {
+    width: 8px;
+    height: 8px;
+    background-color: white;
+    position: absolute;
+    left: 0px;
+    top: 12px;
+}
+
+.robot-tooth-8 {
+    width: 8px;
+    height: 8px;
+    background-color: white;
+    position: absolute;
+    left: 10px;
+    top: 12px;
+}
+
+.robot-tooth-9 {
+ width: 8px;
+    height: 8px;
+    background-color: white;
+    position: absolute;
+    left: 20px;
+    top: 12px;
+}
+
+.robot-tooth-10 {
+ width: 8px;
+    height: 8px;
+    background-color: white;
+    position: absolute;
+    left: 30px;
+    top: 12px;
+}
+
+.robot-tooth-11 {
+ width: 8px;
+    height: 8px;
+    background-color: white;
+    position: absolute;
+    left: 40px;
+    top: 12px;
+}
+
+
+   .robot-tooth-12 {
+ width: 8px;
+    height: 8px;
+    background-color: white;
+    position: absolute;
+    left: 50px;
+    top: 12px;
